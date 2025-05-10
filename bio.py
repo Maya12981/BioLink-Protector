@@ -9,9 +9,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ChatPermi
 import re
 
 # User Client setup
-api_id = "12345678"     # Replace this api_id
-api_hash = "abcdefghijklm123456789"       # Replace this api_hash
-bot_token = "123456789:ABCDEFH-k6LrYjQJ7A28EocXY"       # Replace this with bot_token
+api_id = "20284828"     # Replace this api_id
+api_hash = "a980ba25306901d5c9b899414d6a9ab7"       # Replace this api_hash
+bot_token = "7148114178:AAGpKYE4hsBg7INn0LqPryseKvSrreP_ZSM"       # Replace this with bot_token
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
